@@ -1,0 +1,1 @@
+{"name":"angstbakes-demo","version":"1.0.0","type":"module","scripts":{"dev":"vite --host 0.0.0.0","build":"vite build"},"dependencies":{"@tailwindcss/vite":"*","@vitejs/plugin-react":"*","vite":"*","typescript":"*","react":"*","react-dom":"*","lucide-react":"*","framer-motion":"*"},"devDependencies":{"@types/react":"*","@types/react-dom":"*"}}
